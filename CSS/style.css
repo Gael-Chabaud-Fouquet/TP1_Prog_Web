@@ -14,6 +14,24 @@ li {
     color: #ffffff;
 }
 
-h6 {
+h3 {
     color: #ffffff;
+}
+
+a {
+    color: aqua;
+}
+
+.terminids {
+    color:#FFB901;
+}
+.automatons {
+    color:#FF6161;
+}
+.illuminates {
+    color:#CD8AEA;
+}
+
+.bonus_game {
+    color: lime;
 }
